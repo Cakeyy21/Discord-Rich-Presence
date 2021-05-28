@@ -1,0 +1,19 @@
+{
+    "clientID": "Your App ID",
+
+    "State": "State",    
+    "Details": "Details",
+    
+    "LargeImageKey": "Image Name",
+    "LargeImageText": "Text",
+    
+    "SmallImageKey": "Image Name",
+    "SmallImageText": "Text",
+
+    "Button1Name": "Button1 Name(required)",
+    "Button1URL": "Any URL(required)",
+    
+    "Button2Name": "Button2 Name(required)",
+    "Button2URL": "Any URL(required)"
+    
+}
