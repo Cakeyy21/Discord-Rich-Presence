@@ -1,5 +1,5 @@
 {
-    "clientID": "Your App ID",
+    "clientID": "Your App ID(required)",
 
     "State": "State",    
     "Details": "Details",
