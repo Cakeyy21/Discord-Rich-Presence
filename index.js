@@ -17,7 +17,7 @@ rpc.on("ready", () =>{
         buttons: [{label: config.Button1Name, url: config.Button1URL}, {label: config.Button2Name, url: config.Button2URL}]
 
     })
-    console.log("çalışıyor")
+    console.log("Working")
 })
 
 rpc.login({
