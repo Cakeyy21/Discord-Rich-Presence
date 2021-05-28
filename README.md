@@ -36,7 +36,7 @@ Download The Folder, Edit The Config File, Open Start Rich Presence And Now Your
 
 #### Open Config File
 
-![image](https://user-images.githubusercontent.com/78962317/119903355-496bf480-bf51-11eb-8489-37788d393ba7.png)
+![image](https://user-images.githubusercontent.com/78962317/119941747-a7bcc580-bf99-11eb-8055-ff44f3d51c94.png)
 
 ![image](https://user-images.githubusercontent.com/78962317/119903564-8c2dcc80-bf51-11eb-8cab-16fef467686c.png)
 
