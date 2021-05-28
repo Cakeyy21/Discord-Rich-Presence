@@ -7,11 +7,26 @@ Download The Folder, Edit The Config File, Open Start Rich Presence And Now Your
 
 ![image](https://user-images.githubusercontent.com/78962317/119900556-5981d500-bf4d-11eb-945a-83e45842b524.png)
 
+##                                                  Setting Folder
+
+### Step 1: Dowloand Node.js
+
+#### From [nodejs.org[CLICK]](https://nodejs.org/en/)
+Any Version
+
+### Step 2: Open Discord-Rich-Presence Folder
+Open Power Shell in Folder
+
+Write npm i discord-rpc
+
+Folder is Ready :)
                   
 ##                                                  Discord Rich Presence Tutorial
 
 ### Step 1:  Go To Discord Developer Page
-[Discord Developer Portal](https://discord.com/developers/applications)
+[Discord Developer Portal[CLICK]](https://discord.com/developers/applications)
+
+
 
 ### Step 2:  Create New Discord App
 
